@@ -1,0 +1,1 @@
+# afk-mouse-bot
